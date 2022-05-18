@@ -1,5 +1,12 @@
+html {
+  height: 100%;
+}
+
 body{
-  background: aquamarine;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: linear-gradient(45deg, #1A1A40, #270082, #7A0BC0, #FA58B6);
+  font-family: 'Ubuntu', sans-serif;
 }
 
 h1 > span{
@@ -15,4 +22,100 @@ header{
   justify-content: center;
   align-items: center;
   min-height: 95vh;
+}
+
+#one {
+  background-color: #FF008E;
+  border-radius: 50%;
+  width: 50px;
+  color: #00FFAB;
+  text-align: center;
+}
+
+#two {
+  background-color: #FF4848;
+  border-radius: 50%;
+  width: 50px;
+  color: #C2FFD9;
+  text-align: center;
+}
+
+#three {
+  background-color: #99DDCC;
+  border-radius: 50%;
+  width: 50px;
+  color: #FF5DA2;
+  text-align: center;
+}
+
+#four {
+  background-color: #49FF00;
+  border-radius: 50%;
+  width: 50px;
+  color: #FF0000;
+  text-align: center;
+}
+
+#five {
+  background-color: #FFC600;
+  border-radius: 50%;
+  width: 50px;
+  color: #5800FF;
+  text-align: center;
+}
+
+#six {
+  background-color: #77ACF1;
+  border-radius: 50%;
+  width: 50px;
+  color: #F0EBCC;
+  text-align: center;
+}
+
+#seven {
+  background-color: #FF0000;
+  border-radius: 50%;
+  width: 50px;
+  color: #FF95C5;
+  text-align: center;
+}
+
+#eight {
+  background-color: #5800FF;
+  border-radius: 50%;
+  width: 50px;
+  color: #E900FF;
+  text-align: center;
+}
+
+#nine {
+  background-color: #1CC5DC;
+  border-radius: 50%;
+  width: 50px;
+  color: #CF0000;
+  text-align: center;
+}
+
+#ten {
+  background-color: #77D970;
+  border-radius: 50%;
+  width: 50px;
+  color: #EEEEEE;
+  text-align: center;
+}
+
+#eleven {
+  background-color: #480032;
+  border-radius: 50%;
+  width: 50px;
+  color: #B4FE98;
+  text-align: center;
+}
+
+#twelve {
+  background-color: #00EAD3;
+  border-radius: 50%;
+  width: 50px;
+  color: #FF449F;
+  text-align: center;
 }
